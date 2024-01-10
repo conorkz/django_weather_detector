@@ -1,1 +1,1 @@
-# django_weather_detector
+# Weather detector using Django
